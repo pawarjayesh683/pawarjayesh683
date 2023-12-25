@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi 👋 My name is Jayesh Pawar!
 
+I'm a final year engineering student. I'm pursuing my Bachelor's degree from Mumbai University. I am passionate about web development. Open for internship opportunities.
+
+- 🌱 I’m currently learning Javascript and DSA.
+- 🌍  I'm based in Mumbai, India
+- 📫  You can reach out to me on [Linkedin](https://www.linkedin.com/in/pawarjayesh683/)
+  
 <!--
 **pawarjayesh683/pawarjayesh683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
